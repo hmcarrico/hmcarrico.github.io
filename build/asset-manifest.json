@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alien-review/static/css/main.87b4e2a9.chunk.css",
+    "main.js": "/alien-review/static/js/main.5735c87f.chunk.js",
+    "main.js.map": "/alien-review/static/js/main.5735c87f.chunk.js.map",
+    "runtime~main.js": "/alien-review/static/js/runtime~main.7f9b9bf8.js",
+    "runtime~main.js.map": "/alien-review/static/js/runtime~main.7f9b9bf8.js.map",
+    "static/js/2.e186b6a4.chunk.js": "/alien-review/static/js/2.e186b6a4.chunk.js",
+    "static/js/2.e186b6a4.chunk.js.map": "/alien-review/static/js/2.e186b6a4.chunk.js.map",
+    "index.html": "/alien-review/index.html",
+    "precache-manifest.ee08101c2748b953ba8b4af63c3a59b5.js": "/alien-review/precache-manifest.ee08101c2748b953ba8b4af63c3a59b5.js",
+    "service-worker.js": "/alien-review/service-worker.js",
+    "static/css/main.87b4e2a9.chunk.css.map": "/alien-review/static/css/main.87b4e2a9.chunk.css.map"
+  }
+}
